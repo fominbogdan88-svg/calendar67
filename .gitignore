@@ -1,0 +1,7 @@
+node_modules
+.next
+.data
+desktop/node_modules
+desktop/dist
+*.log
+next-env.d.ts
